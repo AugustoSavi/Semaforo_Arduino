@@ -1,5 +1,4 @@
 # Semaforo_Arduino
-d267235@urhen.com
 ```
 void setup() {
    // Luzes do Semaforo ligadas aos pinos 13, 12, 11
